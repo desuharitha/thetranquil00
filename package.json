@@ -1,0 +1,1 @@
+{"name":"thetranquil00-feasibility","private":true,"type":"module","version":"0.0.0","scripts":{"dev":"vite --host 127.0.0.1","build":"vite build","preview":"vite preview --host 127.0.0.1"},"devDependencies":{"@vitejs/plugin-react":"^5.2.0","vite":"^7.1.0"},"dependencies":{"react":"^19.3.1","react-dom":"^19.3.1"}}
